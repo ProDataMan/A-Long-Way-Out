@@ -14,7 +14,7 @@ But Vic's mind was restless, always yearning for the next challenge. As advancem
 
 **The Travel Net Acquisition:**
 
-The phone call shattered the late-night silence, startling Vic from his focused coding. It was Mikey, the PR director, sounding unusually excited and frantic. "Victor, we need to talk about this Travel Net deal!" he blurted out.
+The phone call shattered the late-night silence, startling Vic from his focused coding. It was Mikey, the PR director, sounding unusually excited and frantic. "Victus, we need to talk about this Travel Net deal!" he blurted out.
 
 Moments later, Vic found himself immersed in a whirlwind of possibilities. The scandalous removal of Travel Net's CEO, Patrick Vantrump, was a golden opportunity. Videos had surfaced of Vantrump's reprehensible behavior at a Miss Texas beauty pageant. The footage showed him inappropriately touching contestants and making lewd comments about their appearances.
 
