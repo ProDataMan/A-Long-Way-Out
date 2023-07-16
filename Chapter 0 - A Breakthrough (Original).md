@@ -10,7 +10,7 @@ Advancements in robotics, sensors, computer vision, and artificial intelligence 
 
 ## Travelnet.com
 
-Just as I checked the code into the source control system, the phone rang and scared the shit out me! It was 1 am already, who the hell was calling me at that hour. “Hello,” I said in a voice so hoarse it sounded as if I hadn’t slept in decades. “Victor, we need to talk about this Travel Net deal!”.
+Just as I checked the code into the source control system, the phone rang and scared the shit out me! It was 1 am already, who the hell was calling me at that hour. “Hello,” I said in a voice so hoarse it sounded as if I hadn’t slept in decades. “Victus, we need to talk about this Travel Net deal!”.
 
 As we were getting closer to releasing the new features of our on-demand travel and ride-hailing software, we had begun researching strategic partnerships with companies that already had the customers and eyeballs we were looking to acquire - Travel Net was on the short list.
 
