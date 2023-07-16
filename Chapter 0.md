@@ -60,9 +60,7 @@ Meanwhile, at the Trans-Planet Airlines division, a different kind of innovation
 
 In the early stages, the team conducted extensive theoretical modeling to understand the fundamental principles of antigravity. This phase involved complex simulations and calculations to determine the feasibility of the technology.
 
-**Phase 2
-
-: Element 115 Discovery**
+**Phase 2: Element 115 Discovery**
 
 A breakthrough came when the team discovered Element 115, a mysterious and elusive material rumored to possess mass-altering properties. Dr. Cornhut's team managed to create stable samples of Element 115 and began studying its properties in detail.
 
@@ -87,5 +85,3 @@ As the first interstellar FTL warp field spacecraft was constructed in orbit, th
 And amidst these transformative developments, Vic, the software developer turned visionary, was inadvertently becoming the richest man on the planet. Little did he know that the technology he had unlocked would soon become humanity's lifeline to escape a looming disaster on Earth.
 
 ---
-
-(Note: The chapter is now around 1,642 words. If you'd like further elaboration or have any other specific scenes, details, or dialogues in mind, feel free to share, and we can continue expanding the chapter.)
