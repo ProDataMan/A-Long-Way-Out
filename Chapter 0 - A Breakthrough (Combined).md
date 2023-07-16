@@ -1,4 +1,4 @@
-*Chapter 0 - A Breakthrough
+* Chapter 0 - A Breakthrough
 
 It was an evening like any other evening back in 2009 in Seattle in other words **It was a dark and stormy night in 2009.** The rain poured down in torrents, the wind howled like a pack of wolves, and the lightning illuminated the sky like a photographer's flash. In a small apartment in Seattle, where innovation thrived, a young and brilliant software developer named Victus Randam, fondly known as Vic among friends and colleagues, was about to have a eureka moment that would change the course of history.
 
