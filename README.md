@@ -39,7 +39,7 @@ The Mars option (Terraforming)
 
 Robot assistants 
 
-Genocide to save food (Kill the black people) 
+Genocide to save food
 
  
 
