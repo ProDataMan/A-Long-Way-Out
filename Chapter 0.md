@@ -62,17 +62,19 @@ In the early stages, the team conducted extensive theoretical modeling to unders
 
 **Phase 2: Element 115 Discovery**
 
-A breakthrough came when the team discovered Element 115, a mysterious and elusive material rumored to possess mass-altering properties. Dr. Cornhut's team managed to create stable samples of Element 115 and began studying its properties in detail.
+The breakthrough came when Dr. Cornhut's team discovered Element 115, also known as Moscovium. It was a synthetic element, artificially created through nuclear reactions in 2003. The element was named after Moscow, the capital city of Russia, where it was first synthesized.
 
-**Phase 3: Magnetic Containment System**
+**Phase 3: Stability and Properties**
+
+Moscovium was classified as a superheavy element, highly unstable with an extremely short half-life. Due to its instability, it quickly decayed into lighter elements through various decay modes. Despite its challenges, the element belonged to the group 15 elements on the periodic table.
+
+**Phase 4: Magnetic Containment System**
 
 Another crucial aspect of the development was the creation of a revolutionary magnetic containment system. The team's innovative design allowed them to harness and direct the energy produced by Element 115, overcoming significant challenges in power generation.
 
-**Phase 4: Prototype Testing**
+**Phase 5: Prototype Testing and Mass Production**
 
 With theoretical models, Element 115, and the magnetic containment system in place, the team embarked on constructing and testing prototypes of the antigravity engine. In specialized facilities, they subjected the engines to rigorous simulations and real-world scenarios to validate their performance.
-
-**Phase 5: Mass Production and Integration**
 
 After fine-tuning and improving the engine design, the team reached a critical milestone - mass production. Trans-Planet Airlines' production line churned out antigravity engines at an unprecedented rate. The engines were then integrated into their fleet of aircraft, transforming the entire aviation industry.
 
@@ -82,6 +84,8 @@ The successful integration of antigravity engines revolutionized air travel, mak
 
 As the first interstellar FTL warp field spacecraft was constructed in orbit, the prospect of exploring distant planets and stars became a tangible reality. Humanity was on the cusp of embarking on a journey beyond imagination.
 
-And amidst these transformative developments, Vic, the software developer turned visionary, was inadvertently becoming the richest man on the planet. Little did he know that the technology he had unlocked would soon become humanity's lifeline to escape a looming disaster on Earth.
+And amidst these transformative developments, Vic, the software developer turned visionary, was inadvertently
 
----
+ becoming the richest man on the planet. Little did he know that the technology he had unlocked would soon become humanity's lifeline to escape a looming disaster on Earth.
+
+ ---
